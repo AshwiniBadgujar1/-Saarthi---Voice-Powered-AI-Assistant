@@ -27,6 +27,11 @@ Currently, Saarthi supports **three languages**:
 - **TTS**: gTTS (Google Text-to-Speech)
 - **Environment**: python-dotenv for secure API key management
 
+
+
+Ashwini Badgujar
+ashu.badgujar@gmail.com
+
 ---
 
 ## 📦 Installation
@@ -38,5 +43,4 @@ git clone https://github.com/yourusername/saarthi.git
 cd saarthi
 
 
-Ashwini Badgujar
-ashu.badgujar@gmail.com
+
