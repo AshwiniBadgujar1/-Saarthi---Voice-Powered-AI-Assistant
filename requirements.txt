@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+gTTS
+python-dotenv
+openai
+pyaudio ; platform_system == "Windows"
